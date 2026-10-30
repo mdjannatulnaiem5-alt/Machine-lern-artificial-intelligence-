@@ -1,7 +1,7 @@
 # Machine-lern-artificial-intelligence-
 Machine lern 
 
-
+mathematics ###
 #Basic algebra 
 Geometry 
 Vector 
@@ -20,6 +20,11 @@ Tiny ml
 Float point 
 Fix point 
 Numorial method 
+
+machine lern fundamental
+algorithms 
+deep learning 
+machine lern tool
 
 
 
